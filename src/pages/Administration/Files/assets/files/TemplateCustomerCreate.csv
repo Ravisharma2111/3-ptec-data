@@ -1,0 +1,7 @@
+parentname,parenttypename,parentzonename,customername,customertypename,customerzonename,customergroup,customerstockflag,defaultloginid,customerdefaultpkgunit,customerordernoformat,customerinvoicenoformat,address1,country,state,city,emailid,contactno,zipcode,fax,otherinfo1,otherinfo2
+,,,John Cosmetic Store,Central Warehouses,Pune,FMCG,TRUE,John@Cosmetic.com,box,sdsd,dsds,ewew,reer,eee,www,dfdd@ssd.vc,232321212,434212,3434323232,dsdsd,wewe
+John Cosmetic Store,Central Warehouses,Pune,Abrahim Store,,Pune City,FMCG,TRUE,Abrahim@Cosmetic.com,,sdsd,dsds,ewew,reer,eee,www,xcx@ewwe.vv,232321212,434212,3434323232,dsdsd,wewe
+Abrahim Store,Regional Warehouses,Pune City,Amit Cosmatic,Super Stockists,Pune City,FMCG,TRUE,Amit@Cosmetic.com,,sdsd,dsds,ewew,reer,eee,www,wewe@ewe.vv,232321212,434212,3434323232,dsdsd,wewe
+,,,John Store,,Pune City,FMCG,TRUE,John@store.com,,sdsd,dsds,ewew,reer,eee,www,wqwq@sd.dd,232321212,434212,3434323232,dsdsd,wewe
+Amit Cosmatic,Super Stockists,Pune City,Amit Cosmatic,Distributors,Pune City,FMCG,TRUE,Amit-ds@Cosmetic.com,,sdsd,dsds,ewew,reer,eee,www,wewe@ewe.vv,232321212,434212,3434323232,dsdsd,wewe
+Amit Cosmatic,Distributors,Pune City,Rakesh Store,Retailers,Pune City,FMCG,TRUE,Rakesh-rt@Cosmetic.com,,sdsd,dsds,ewew,reer,eee,www,wewe@ewe.vv,232321212,434212,3434323232,dsdsd,wewe
